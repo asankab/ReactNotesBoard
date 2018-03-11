@@ -1,0 +1,14 @@
+Building the Node.js server app @ Lynda
+//https://www.youtube.com/watch?v=MjavMX8fUAE fetch api
+//https://www.youtube.com/watch?v=l9eyot_IXLY router
+//https://www.youtube.com/watch?v=ZBxMljq9GSE
+//https://codepen.io/bastianalbers/pen/PWBYvz popup
+http://jake.ginnivan.net/blog/2015/05/27/react-popout-window/
+//https://frontendmasters.com/courses/react-state/
+
+/*return this.state.notes.map((note =>{
+return this.renderDisplay(note)
+}))*/
+
+https://stackoverflow.com/questions/36967721/what-are-the-differences-between-redux-thunk-and-redux-promise-when-used-with-ax
+https://hackernoon.com/refs-in-react-all-you-need-to-know-fb9c9e2aeb81
